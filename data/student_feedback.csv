@@ -1,0 +1,81 @@
+feedback,sentiment
+"The teacher explains concepts very clearly.",Positive
+"I really enjoyed today's lecture.",Positive
+"The faculty is helpful and supportive.",Positive
+"The course material is easy to understand.",Positive
+"The teacher gives useful examples.",Positive
+"The classroom environment is excellent.",Positive
+"I am satisfied with the teaching quality.",Positive
+"The assignments helped me understand the topic.",Positive
+"The instructor answers our questions patiently.",Positive
+"The practical sessions are very useful.",Positive
+"The classroom is okay.",Neutral
+"The lecture was neither good nor bad.",Neutral
+"The course content is average.",Neutral
+"Some topics were easy while others were difficult.",Neutral
+"The facilities are acceptable.",Neutral
+"The teacher sometimes explains things well.",Neutral
+"The workload is manageable.",Neutral
+"The course has both good and difficult parts.",Neutral
+"The lecture was normal today.",Neutral
+"The teaching method is satisfactory.",Neutral
+"The lectures are difficult to understand.",Negative
+"The teacher does not explain the concepts properly.",Negative
+"The classroom is uncomfortable.",Negative
+"The assignments are too difficult.",Negative
+"The lectures are boring.",Negative
+"I am not satisfied with the teaching quality.",Negative
+"The instructor does not answer questions clearly.",Negative
+"The course material is confusing.",Negative
+"The practical sessions are not useful.",Negative
+"The teaching pace is too fast.",Negative
+"The professor is excellent at explaining difficult topics.",Positive
+"The teaching style makes learning interesting.",Positive
+"The instructor provides clear explanations.",Positive
+"The lab sessions are well organized.",Positive
+"I learned a lot from this course.",Positive
+"The teacher encourages students to ask questions.",Positive
+"The study materials are very helpful.",Positive
+"The course is well structured.",Positive
+"The faculty gives useful feedback on assignments.",Positive
+"The lessons are engaging and informative.",Positive
+"The instructor uses practical examples effectively.",Positive
+"The classroom facilities are good.",Positive
+"The teacher is approachable when we need help.",Positive
+"The practical exercises improved my understanding.",Positive
+"I am happy with the progress I made in this course.",Positive
+"The lectures are informative and interesting.",Positive
+"The faculty explains difficult concepts patiently.",Positive
+"The assignments are helpful for revision.",Positive
+"The overall learning experience has been good.",Positive
+"The course has improved my technical skills.",Positive
+"The teacher explains at an average pace.",Neutral
+"The course material covers the basic topics.",Neutral
+"The classroom facilities are adequate.",Neutral
+"The lectures are sometimes interesting.",Neutral
+"The assignments are of moderate difficulty.",Neutral
+"The instructor gives enough information for most topics.",Neutral
+"The course is similar to other courses I have taken.",Neutral
+"The teaching approach is acceptable.",Neutral
+"The practical work is average.",Neutral
+"The course schedule is manageable.",Neutral
+"The teacher explains some topics better than others.",Neutral
+"The learning resources are satisfactory.",Neutral
+"The lectures are fairly normal.",Neutral
+"The course workload is neither high nor low.",Neutral
+"The classroom is suitable for regular classes.",Neutral
+"The instructor provides basic feedback.",Neutral
+"The course content is reasonable.",Neutral
+"The practical sessions are adequate.",Neutral
+"The teaching quality is acceptable.",Neutral
+"The overall experience is average.",Neutral
+"The teacher explains concepts poorly.",Negative
+"The lectures are too confusing.",Negative
+"The instructor is not clear when explaining topics.",Negative
+"The classroom facilities are poor.",Negative
+"The assignments are unnecessarily difficult.",Negative
+"The course material is difficult to follow.",Negative
+"The teaching pace is too fast for students.",Negative
+"The practical sessions are poorly organized.",Negative
+"The instructor does not provide enough guidance.",Negative
+"The lectures are not engaging.",Negative
